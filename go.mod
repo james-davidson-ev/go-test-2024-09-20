@@ -1,8 +1,7 @@
-module helloworld
+module marcopolo
 
 go 1.23.1
 
-require (
-	google.golang.org/protobuf v1.34.2 // indirect
-	iw-mapviewer.cmh.platform-dev.evinternal.net v0.0.0-20240920093129-2c6716df85db // indirect
-)
+require iw-mapviewer.cmh.platform-dev.evinternal.net/api v0.0.0-20240920101653-6450f87f7de0
+
+require google.golang.org/protobuf v1.34.2 // indirect

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"iw-mapviewer.cmh.platform-dev.evinternal.net/test_2024_09_20"
+	"iw-mapviewer.cmh.platform-dev.evinternal.net/api/test_2024_09_20"
 )
 
 func main() {

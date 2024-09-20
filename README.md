@@ -7,3 +7,7 @@ The generated code is published in Go module/package format "iw-mapviewer.cmh.pl
 The trick is that when you **go get iw-mapviewer.cmh.platform-dev.evinternal.net/test_2024_09_20@main** it will retrieve from [james-davidson-ev/test-2024-09-20](https://github.com/james-davidson-ev/test-2024-09-20) instead.
 
 This works because the index.html for iw-mapviewer.cmh.platform-dev.evinternal.net includes a special <meta> tag as per [Remote import paths](https://pkg.go.dev/cmd/go#hdr-Remote_import_paths)
+
+## note
+
+don't forget to `export GOPRIVATE=iw-mapviewer.cmh.platform-dev.evinternal.net`

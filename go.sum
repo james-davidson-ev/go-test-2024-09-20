@@ -8,3 +8,5 @@ iw-mapviewer.cmh.platform-dev.evinternal.net/api v0.0.0-20240920101653-6450f87f7
 iw-mapviewer.cmh.platform-dev.evinternal.net/api v0.0.0-20240920101653-6450f87f7de0/go.mod h1:g6pvq13p3WaDeGOpPGElz+Bq9/YniJAq4kotgB9rl/o=
 iw-mapviewer.cmh.platform-dev.evinternal.net/api v0.0.0-20240924021912-e7d62a673869 h1:CGaWbPpkGIs0VtXh+Qv4F3TzRWa0Tjsx7vYOFLqm8DA=
 iw-mapviewer.cmh.platform-dev.evinternal.net/api v0.0.0-20240924021912-e7d62a673869/go.mod h1:g6pvq13p3WaDeGOpPGElz+Bq9/YniJAq4kotgB9rl/o=
+iw-mapviewer.cmh.platform-dev.evinternal.net/api v1.0.0 h1:Kw/prqcXP8drsli7nDgSu9JvNKWc1F0m4xeu0ODiBwA=
+iw-mapviewer.cmh.platform-dev.evinternal.net/api v1.0.0/go.mod h1:g6pvq13p3WaDeGOpPGElz+Bq9/YniJAq4kotgB9rl/o=
